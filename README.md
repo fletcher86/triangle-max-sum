@@ -5,9 +5,9 @@ row below, the maximum total from top to bottom is 27.
  
 <pre>
                 5
-               9 6 
-			  4 6 8 
-			 0 7 1 5
+               9 6
+              4 6 8
+             0 7 1 5
 </pre>
 
 i.e. 5 + 9 + 6 + 7 = 27.
