@@ -15,3 +15,10 @@ i.e. 5 + 9 + 6 + 7 = 27.
 Write a program in Java to find the maximum total from top to bottom in the
 included file ‘triangle.txt’ - a text file containing a triangle with 100
 rows.
+
+<pre>
+git clone https://github.com/fletcher86/triangle-max-sum.git
+cd triangle-max-sum
+./gradlew clean build
+java -jar ./build/libs/triangle-max-sum-1.0.jar < triangle.txt
+</pre>
