@@ -28,6 +28,8 @@ java -jar ./build/libs/triangle-max-sum-1.0.jar < triangle.txt
 
 The computed triangle sums were computed from a bottom up approach because if using a top down approach the sum may be incorrect.
 
+Sums were rolled up from the bottom up as follows.
+
 <pre>
                 5
                9 6
