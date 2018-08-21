@@ -30,3 +30,15 @@ The computed output for "triangle.txt" is
 <pre>
 Max Sum = 732506
 </pre>
+
+The computed output for "triangle0.txt" is
+<pre>
+Max Sum = 23
+</pre>
+
+The computed output for "triangle1.txt" is
+<pre>
+Max Sum = 1074
+</pre>
+
+
