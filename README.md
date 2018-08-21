@@ -16,6 +16,7 @@ Write a program in Java to find the maximum total from top to bottom in the
 included file ‘triangle.txt’ - a text file containing a triangle with 100
 rows.
 
+<h2>To run</h2>
 <pre>
 git clone https://github.com/fletcher86/triangle-max-sum.git
 cd triangle-max-sum
