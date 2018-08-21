@@ -23,3 +23,10 @@ cd triangle-max-sum
 ./gradlew clean build
 java -jar ./build/libs/triangle-max-sum-1.0.jar < triangle.txt
 </pre>
+
+<h2>Additional Comments</h2>
+
+The computed output for "triangle.txt" is
+<pre>
+Max Sum = 732506
+</pre>
