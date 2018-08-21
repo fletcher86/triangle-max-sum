@@ -26,7 +26,7 @@ java -jar ./build/libs/triangle-max-sum-1.0.jar < triangle.txt
 
 <h2>Additional Comments</h2>
 
-The computed triangle sums were computed from a bottom up approach because if using a top down approach the sum may be incorrect.
+The computed triangle sums were computed from a bottom up approach because if using a top down approach the sum may not be maximized.  For example, using a top down approach, it is possible to have sums weighted toward one side of the triangle, but a single outlier on the opposite side and bottom of the triangle that could have impacted the max sum calculation and would have been missed with a top down approach.  In order to take into account this possibility, a bottom up approach was necessary.
 
 Sums were rolled up from the bottom up as follows.
 
