@@ -26,6 +26,27 @@ java -jar ./build/libs/triangle-max-sum-1.0.jar < triangle.txt
 
 <h2>Additional Comments</h2>
 
+The computed triangle sums were computed from a bottom up approach because if using a top down approach the sum may be incorrect.
+
+<pre>
+                5
+               9 6
+              4 6 8
+             0 7 1 5
+</pre>
+<pre>
+                5
+               9 6
+             11 13 12
+</pre>
+<pre>
+                5
+              22 19
+</pre>
+<pre>
+               27
+</pre>
+
 The computed output for "triangle.txt" is
 <pre>
 Max Sum = 732506
