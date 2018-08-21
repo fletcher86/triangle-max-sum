@@ -64,4 +64,8 @@ The computed output for "triangle1.txt" is
 Max Sum = 1074
 </pre>
 
-
+The computed output for "triangle2.txt" is
+<pre>
+Max Sum = 27
+</pre>
+This last input file, triangle2.txt, is the same input described in the problem description above.
